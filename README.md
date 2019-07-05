@@ -24,6 +24,7 @@
 - The voter can verify that their vote went to the correct party in the blockchain.
 - Anyone can count the votes in the blockchain to make sure the counting is genuine.
 - Counting will be done simultaneously to save time and power.
+- Voters can verify that their vote is casted to the right party and  is not being tampered with, anytime after voting using their secret key pass.
 
 ## The steps that the voters will need to take
 
